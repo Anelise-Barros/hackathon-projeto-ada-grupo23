@@ -1,4 +1,4 @@
-# 🏦 Banco23 — Inteligência de Risco com Machine Learning
+# 🏦 Banco23 - Inteligência de Risco com Machine Learning
 
 Projeto desenvolvido durante o Hackathon de encerramento do programa **Ada | Elas+ Tech**, com foco na construção de um modelo preditivo para identificação de risco de inadimplência de clientes.
 
@@ -6,7 +6,7 @@ A solução foi criada para apoiar decisões estratégicas de concessão de cré
 
 ---
 
-## 👩‍💻 Integrantes — Squad 23
+## 👩‍💻 Integrantes - Squad 23
 
 | Nome | Contato |
 |---|---|
