@@ -45,18 +45,6 @@ O projeto foi desenvolvido para analisar padrões financeiros e prever possívei
 
 ---
 
-## 🧩 Engenharia de Dados
-
-Criação da variável:
-
-```python
-income_commitment_ratio
-```
-
-Essa métrica representa o comprometimento da renda do cliente, auxiliando na identificação de perfis financeiros com maior risco de inadimplência.
-
----
-
 ## 🔄 Pré-processamento
 
 - Tratamento e limpeza de dados  
